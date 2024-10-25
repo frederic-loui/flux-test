@@ -1,342 +1,342 @@
-{
-  "nodes": [
+"{
+  \"nodes\": [
     {
-      "name": "poz",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"poz\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         52.407776,
         16.952782
       ]
     },
     {
-      "name": "gda",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"gda\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         54.345248,
         18.654276
       ]
     },
     {
-      "name": "war",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"war\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         52.231792,
         21.006351
       ]
     },
     {
-      "name": "kra",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"kra\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.068541,
         19.947464
       ]
     },
     {
-      "name": "wro",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"wro\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.103063,
         17.038287
       ]
     },
     {
-      "name": "poz",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"poz\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         52.407776,
         16.952782
       ]
     },
     {
-      "name": "szc",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"szc\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         53.419637,
         14.552042
       ]
     },
     {
-      "name": "kos",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"kos\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         54.191282,
         16.169653
       ]
     },
     {
-      "name": "gda",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"gda\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         54.345248,
         18.654276
       ]
     },
     {
-      "name": "ols",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"ols\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         53.782758,
         20.481679
       ]
     },
     {
-      "name": "bia",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"bia\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         53.132231,
         23.153101
       ]
     },
     {
-      "name": "war",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"war\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         52.231792,
         21.006351
       ]
     },
     {
-      "name": "tor",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"tor\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         53.018818,
         18.605544
       ]
     },
     {
-      "name": "zgo",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"zgo\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.969907,
         15.504051
       ]
     },
     {
-      "name": "opo",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"opo\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.664648,
         17.926277
       ]
     },
     {
-      "name": "wro",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"wro\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.103063,
         17.038287
       ]
     },
     {
-      "name": "kat",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"kat\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.303792,
         18.67613
       ]
     },
     {
-      "name": "kra",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"kra\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.068541,
         19.947464
       ]
     },
     {
-      "name": "rze",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"rze\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.043902,
         22.007124
       ]
     },
     {
-      "name": "lub",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"lub\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.23605,
         22.569155
       ]
     },
     {
-      "name": "pul",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"pul\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.449129,
         21.981674
       ]
     },
     {
-      "name": "rad",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"rad\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.396456,
         21.155654
       ]
     },
     {
-      "name": "kie",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"kie\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.879321,
         20.617752
       ]
     },
     {
-      "name": "byd",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"byd\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         53.13509,
         17.99184
       ]
     },
     {
-      "name": "poz",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"poz\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         52.407776,
         16.952782
       ]
     },
     {
-      "name": "lod",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"lod\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         51.774517,
         19.469041
       ]
     },
     {
-      "name": "cze",
-      "meta": {
-        "displayName": "",
-        "svg": "",
-        "template": ""
+      \"name\": \"cze\",
+      \"meta\": {
+        \"displayName\": \"\",
+        \"svg\": \"\",
+        \"template\": \"\"
       },
-      "coordinate": [
+      \"coordinate\": [
         50.811465,
         19.119926
       ]
     }
   ],
-  "edges": [
+  \"edges\": [
     {
-      "name": "ptx-gda-1@et-0/0/1_ptx-poz-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "gda",
-            "poz"
+      \"name\": \"ptx-gda-1@et-0/0/1_ptx-poz-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"gda\",
+            \"poz\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           54.345248,
           18.654276
@@ -350,19 +350,19 @@
           16.952782
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "ptx-war-1@et-0/0/1_ptx-gda-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "war",
-            "gda"
+      \"name\": \"ptx-war-1@et-0/0/1_ptx-gda-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"war\",
+            \"gda\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.231792,
           21.006351
@@ -376,19 +376,19 @@
           18.654276
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "ptx-kra-1@et-0/0/1_ptx-war-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "kra",
-            "war"
+      \"name\": \"ptx-kra-1@et-0/0/1_ptx-war-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"kra\",
+            \"war\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.068541,
           19.947464
@@ -402,19 +402,19 @@
           21.006351
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "ptx-wro-1@et-0/0/1_ptx-kra-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "wro",
-            "kra"
+      \"name\": \"ptx-wro-1@et-0/0/1_ptx-kra-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"wro\",
+            \"kra\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.103063,
           17.038287
@@ -428,19 +428,19 @@
           19.947464
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "ptx-wro-1@et-0/0/0_ptx-poz-1@et-0/0/1",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "wro",
-            "poz"
+      \"name\": \"ptx-wro-1@et-0/0/0_ptx-poz-1@et-0/0/1\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"wro\",
+            \"poz\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.103063,
           17.038287
@@ -454,19 +454,19 @@
           16.952782
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "ptx-war-1@et-0/0/2_ptx-poz-1@et-0/0/2",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "war",
-            "poz"
+      \"name\": \"ptx-war-1@et-0/0/2_ptx-poz-1@et-0/0/2\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"war\",
+            \"poz\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.231792,
           21.006351
@@ -480,19 +480,19 @@
           16.952782
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-szc-1@et-0/0/1_mx-poz-2@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "szc",
-            "poz"
+      \"name\": \"mx-szc-1@et-0/0/1_mx-poz-2@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"szc\",
+            \"poz\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           53.419637,
           14.552042
@@ -506,19 +506,19 @@
           16.952782
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-kos-1@et-0/0/1_mx-szc-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "kos",
-            "szc"
+      \"name\": \"mx-kos-1@et-0/0/1_mx-szc-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"kos\",
+            \"szc\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           54.191282,
           16.169653
@@ -532,19 +532,19 @@
           14.552042
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-gda-1@et-0/0/1_mx-kos-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "gda",
-            "kos"
+      \"name\": \"mx-gda-1@et-0/0/1_mx-kos-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"gda\",
+            \"kos\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           54.345248,
           18.654276
@@ -558,19 +558,19 @@
           16.169653
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-ols-1@et-0/0/1_mx-gda-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "ols",
-            "gda"
+      \"name\": \"mx-ols-1@et-0/0/1_mx-gda-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"ols\",
+            \"gda\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           53.782758,
           20.481679
@@ -584,19 +584,19 @@
           18.654276
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-bia-1@et-0/0/1_mx-ols-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "bia",
-            "ols"
+      \"name\": \"mx-bia-1@et-0/0/1_mx-ols-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"bia\",
+            \"ols\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           53.132231,
           23.153101
@@ -610,19 +610,19 @@
           20.481679
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-war-1@et-0/0/1_mx-bia-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "war",
-            "bia"
+      \"name\": \"mx-war-1@et-0/0/1_mx-bia-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"war\",
+            \"bia\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.231792,
           21.006351
@@ -636,19 +636,19 @@
           23.153101
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-tor-1@et-0/0/1_mx-war-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "tor",
-            "war"
+      \"name\": \"mx-tor-1@et-0/0/1_mx-war-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"tor\",
+            \"war\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           53.018818,
           18.605544
@@ -662,19 +662,19 @@
           21.006351
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-gda-1@et-0/0/2_mx-tor-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "gda",
-            "tor"
+      \"name\": \"mx-gda-1@et-0/0/2_mx-tor-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"gda\",
+            \"tor\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           54.345248,
           18.654276
@@ -688,19 +688,19 @@
           18.605544
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-poz-2@et-0/0/1_mx-zgo-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "poz",
-            "zgo"
+      \"name\": \"mx-poz-2@et-0/0/1_mx-zgo-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"poz\",
+            \"zgo\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.407776,
           16.952782
@@ -714,19 +714,19 @@
           15.504051
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-wro-1@et-0/0/1_mx-opo-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "wro",
-            "opo"
+      \"name\": \"mx-wro-1@et-0/0/1_mx-opo-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"wro\",
+            \"opo\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.103063,
           17.038287
@@ -740,19 +740,19 @@
           17.926277
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-opo-1@et-0/0/1_mx-kat-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "opo",
-            "kat"
+      \"name\": \"mx-opo-1@et-0/0/1_mx-kat-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"opo\",
+            \"kat\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.664648,
           17.926277
@@ -766,19 +766,19 @@
           18.67613
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-kat-1@et-0/0/1_mx-kra-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "kat",
-            "kra"
+      \"name\": \"mx-kat-1@et-0/0/1_mx-kra-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"kat\",
+            \"kra\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.303792,
           18.67613
@@ -792,19 +792,19 @@
           19.947464
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-kra-1@et-0/0/1_mx-rze-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "kra",
-            "rze"
+      \"name\": \"mx-kra-1@et-0/0/1_mx-rze-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"kra\",
+            \"rze\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.068541,
           19.947464
@@ -818,19 +818,19 @@
           22.007124
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-rze-1@et-0/0/1_mx-lub-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "rze",
-            "lub"
+      \"name\": \"mx-rze-1@et-0/0/1_mx-lub-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"rze\",
+            \"lub\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.043902,
           22.007124
@@ -844,19 +844,19 @@
           22.569155
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-lub-1@et-0/0/1_mx-pul-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "lub",
-            "pul"
+      \"name\": \"mx-lub-1@et-0/0/1_mx-pul-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"lub\",
+            \"pul\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.23605,
           22.569155
@@ -870,19 +870,19 @@
           21.981674
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-pul-1@et-0/0/1_mx-rad-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "pul",
-            "rad"
+      \"name\": \"mx-pul-1@et-0/0/1_mx-rad-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"pul\",
+            \"rad\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.449129,
           21.981674
@@ -896,19 +896,19 @@
           21.155654
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-rad-1@et-0/0/1_mx-kie-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "rad",
-            "kie"
+      \"name\": \"mx-rad-1@et-0/0/1_mx-kie-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"rad\",
+            \"kie\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.396456,
           21.155654
@@ -922,19 +922,19 @@
           20.617752
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-kie-1@et-0/0/1_mx-kra-1@et-0/0/2",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "kie",
-            "kra"
+      \"name\": \"mx-kie-1@et-0/0/1_mx-kra-1@et-0/0/2\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"kie\",
+            \"kra\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.879321,
           20.617752
@@ -948,19 +948,19 @@
           19.947464
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-war-1@et-0/0/2_mx-rad-1@et-0/0/2",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "war",
-            "rad"
+      \"name\": \"mx-war-1@et-0/0/2_mx-rad-1@et-0/0/2\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"war\",
+            \"rad\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.231792,
           21.006351
@@ -974,19 +974,19 @@
           21.155654
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-zgo-1@et-0/0/1_mx-wro-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "zgo",
-            "wro"
+      \"name\": \"mx-zgo-1@et-0/0/1_mx-wro-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"zgo\",
+            \"wro\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.969907,
           15.504051
@@ -1000,19 +1000,19 @@
           17.038287
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-tor-1@et-0/0/2_mx-byd-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "tor",
-            "byd"
+      \"name\": \"mx-tor-1@et-0/0/2_mx-byd-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"tor\",
+            \"byd\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           53.018818,
           18.605544
@@ -1026,19 +1026,19 @@
           17.99184
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-byd-1@et-0/0/1_mx-poz-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "byd",
-            "poz"
+      \"name\": \"mx-byd-1@et-0/0/1_mx-poz-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"byd\",
+            \"poz\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           53.13509,
           17.99184
@@ -1052,19 +1052,19 @@
           16.952782
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-war-1@et-0/0/3_mx-lod-1@et-0/0/2",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "war",
-            "lod"
+      \"name\": \"mx-war-1@et-0/0/3_mx-lod-1@et-0/0/2\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"war\",
+            \"lod\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.231792,
           21.006351
@@ -1078,19 +1078,19 @@
           19.469041
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-poz-1@et-0/0/1_mx-lod-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "poz",
-            "lod"
+      \"name\": \"mx-poz-1@et-0/0/1_mx-lod-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"poz\",
+            \"lod\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           52.407776,
           16.952782
@@ -1104,19 +1104,19 @@
           19.469041
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-lod-1@et-0/0/1_mx-cze-1@et-0/0/0",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "lod",
-            "cze"
+      \"name\": \"mx-lod-1@et-0/0/1_mx-cze-1@et-0/0/0\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"lod\",
+            \"cze\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           51.774517,
           19.469041
@@ -1130,19 +1130,19 @@
           19.119926
         ]
       ],
-      "children": []
+      \"children\": []
     },
     {
-      "name": "mx-cze-1@et-0/0/1_mx-kat-1@et-0/0/2",
-      "meta": {
-        "endpoint_identifiers": {
-          "names": [
-            "cze",
-            "kat"
+      \"name\": \"mx-cze-1@et-0/0/1_mx-kat-1@et-0/0/2\",
+      \"meta\": {
+        \"endpoint_identifiers\": {
+          \"names\": [
+            \"cze\",
+            \"kat\"
           ]
         }
       },
-      "coordinates": [
+      \"coordinates\": [
         [
           50.811465,
           19.119926
@@ -1156,7 +1156,7 @@
           18.67613
         ]
       ],
-      "children": []
+      \"children\": []
     }
   ]
-}
+}"
