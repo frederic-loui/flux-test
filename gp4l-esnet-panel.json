@@ -1,1 +1,155 @@
-"{\"edges\":[{\"name\":\"A--B\",\"meta\":{\"endpoint_identifiers\":{\"pops\":[\"A\",\"B\"]}},\"coordinates\":[[42.30619185993376,-106.00734642032997],[42.30619185993376,-92.30145333497663]],\"children\":[]},{\"name\":\"A--C\",\"meta\":{\"endpoint_identifiers\":{\"pops\":[\"A\",\"C\"]}},\"coordinates\":[[42.30619185993376,-106.00734642032997],[34.5952660320894,-99.10139879776413]],\"children\":[]},{\"name\":\"B--C\",\"meta\":{\"endpoint_identifiers\":{\"pops\":[\"B\",\"C\"]}},\"coordinates\":[[42.30619185993376,-92.30145333497663],[34.5952660320894,-99.10139879776413]],\"children\":[]}],\"nodes\":[{\"name\":\"A\",\"meta\":{\"display_name\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[42.30619185993376,-106.00734642032997]},{\"name\":\"B\",\"meta\":{\"display_name\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[42.30619185993376,-92.30145333497663]},{\"name\":\"C\",\"meta\":{\"display_name\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[34.5952660320894,-99.10139879776413]}]}"
+{
+        "background": "#EDEDED",
+        "configurationUrl": "https://raw.githubusercontent.com/frederic-loui/flux-test/refs/heads/main/gp4l-esnet-panel.json",
+        "customEdgeTooltip": "\n  <div class=\"flow-tooltip\">\n    <strong>\n      ${forward.from} → ${forward.to}\n      <br />\n      Rate: ${forward.dataPoint}\n    </strong>\n  </div>\n  <div class=\"flow-tooltip\">\n    <span>\n      ${reverse.from} → ${reverse.to}\n      <br />\n      Rate: ${reverse.dataPoint}\n    </span>\n  </div>\n",
+        "customNodeTooltip": "\n  <div class=\"flow-tooltip\">\n    <strong>${name}</strong>\n  </div>\n  <div class=\"flow-tooltip\">\n    <strong>In Volume: ${inValue}</strong>\n  </div>\n  <div class=\"flow-tooltip\">\n    <strong>Out Volume: ${outValue}</strong>\n  </div>\n",
+        "enableCustomEdgeTooltip": false,
+        "enableCustomNodeTooltip": false,
+        "enableEdgeAnimation": true,
+        "enableEditing": false,
+        "enableNodeAnimation": true,
+        "enableScrolling": true,
+        "initialViewStrategy": "static",
+        "layers": [
+          {
+            "color": "#49a7f25e",
+            "dashboardEdgeDstVar": "destination",
+            "dashboardEdgeDstVarL1": "dest",
+            "dashboardEdgeSrcVar": "source",
+            "dashboardEdgeSrcVarL1": "source",
+            "dashboardNodeVar": "node",
+            "dataFieldLabel": "Volume:",
+            "dstField": "dst",
+            "dstFieldLabel": "To:",
+            "edgeWidth": 2.5,
+            "endpointId": "pops",
+            "inboundValueField": "in_bits",
+            "jsonFromUrl": true,
+            "legend": true,
+            "mapjson": "{\"edges\":[{\"name\":\"ptx-gda-1@et-0/0/1_ptx-poz-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"gda\",\"poz\"]}},\"coordinates\":[[54.345248,18.654276],[53.376512,17.803529],[52.407776,16.952782]],\"children\":[]},{\"name\":\"ptx-war-1@et-0/0/1_ptx-gda-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"war\",\"gda\"]}},\"coordinates\":[[52.231792,21.006351],[53.28852,19.830313],[54.345248,18.654276]],\"children\":[]},{\"name\":\"ptx-kra-1@et-0/0/1_ptx-war-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"kra\",\"war\"]}},\"coordinates\":[[50.068541,19.947464],[51.150166,20.476907],[52.231792,21.006351]],\"children\":[]},{\"name\":\"ptx-wro-1@et-0/0/1_ptx-kra-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"wro\",\"kra\"]}},\"coordinates\":[[51.103063,17.038287],[50.585802,18.492876],[50.068541,19.947464]],\"children\":[]},{\"name\":\"ptx-wro-1@et-0/0/0_ptx-poz-1@et-0/0/1\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"wro\",\"poz\"]}},\"coordinates\":[[51.103063,17.038287],[51.75542,16.995534],[52.407776,16.952782]],\"children\":[]},{\"name\":\"ptx-war-1@et-0/0/2_ptx-poz-1@et-0/0/2\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"war\",\"poz\"]}},\"coordinates\":[[52.231792,21.006351],[52.319784,18.979566],[52.407776,16.952782]],\"children\":[]},{\"name\":\"mx-szc-1@et-0/0/1_mx-poz-2@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"szc\",\"poz\"]}},\"coordinates\":[[53.419637,14.552042],[52.913707,15.752412],[52.407776,16.952782]],\"children\":[]},{\"name\":\"mx-kos-1@et-0/0/1_mx-szc-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"kos\",\"szc\"]}},\"coordinates\":[[54.191282,16.169653],[53.805459,15.360848],[53.419637,14.552042]],\"children\":[]},{\"name\":\"mx-gda-1@et-0/0/1_mx-kos-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"gda\",\"kos\"]}},\"coordinates\":[[54.345248,18.654276],[54.268265,17.411964],[54.191282,16.169653]],\"children\":[]},{\"name\":\"mx-ols-1@et-0/0/1_mx-gda-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"ols\",\"gda\"]}},\"coordinates\":[[53.782758,20.481679],[54.064003,19.567977],[54.345248,18.654276]],\"children\":[]},{\"name\":\"mx-bia-1@et-0/0/1_mx-ols-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"bia\",\"ols\"]}},\"coordinates\":[[53.132231,23.153101],[53.457494,21.81739],[53.782758,20.481679]],\"children\":[]},{\"name\":\"mx-war-1@et-0/0/1_mx-bia-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"war\",\"bia\"]}},\"coordinates\":[[52.231792,21.006351],[52.682012,22.079726],[53.132231,23.153101]],\"children\":[]},{\"name\":\"mx-tor-1@et-0/0/1_mx-war-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"tor\",\"war\"]}},\"coordinates\":[[53.018818,18.605544],[52.625305,19.805947],[52.231792,21.006351]],\"children\":[]},{\"name\":\"mx-gda-1@et-0/0/2_mx-tor-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"gda\",\"tor\"]}},\"coordinates\":[[54.345248,18.654276],[53.682033,18.62991],[53.018818,18.605544]],\"children\":[]},{\"name\":\"mx-poz-2@et-0/0/1_mx-zgo-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"poz\",\"zgo\"]}},\"coordinates\":[[52.407776,16.952782],[52.188841,16.228417],[51.969907,15.504051]],\"children\":[]},{\"name\":\"mx-wro-1@et-0/0/1_mx-opo-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"wro\",\"opo\"]}},\"coordinates\":[[51.103063,17.038287],[50.883855,17.482282],[50.664648,17.926277]],\"children\":[]},{\"name\":\"mx-opo-1@et-0/0/1_mx-kat-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"opo\",\"kat\"]}},\"coordinates\":[[50.664648,17.926277],[50.48422,18.301203],[50.303792,18.67613]],\"children\":[]},{\"name\":\"mx-kat-1@et-0/0/1_mx-kra-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"kat\",\"kra\"]}},\"coordinates\":[[50.303792,18.67613],[50.186166,19.311797],[50.068541,19.947464]],\"children\":[]},{\"name\":\"mx-kra-1@et-0/0/1_mx-rze-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"kra\",\"rze\"]}},\"coordinates\":[[50.068541,19.947464],[50.056222,20.977294],[50.043902,22.007124]],\"children\":[]},{\"name\":\"mx-rze-1@et-0/0/1_mx-lub-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"rze\",\"lub\"]}},\"coordinates\":[[50.043902,22.007124],[50.639976,22.288139],[51.23605,22.569155]],\"children\":[]},{\"name\":\"mx-lub-1@et-0/0/1_mx-pul-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"lub\",\"pul\"]}},\"coordinates\":[[51.23605,22.569155],[51.34259,22.275415],[51.449129,21.981674]],\"children\":[]},{\"name\":\"mx-pul-1@et-0/0/1_mx-rad-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"pul\",\"rad\"]}},\"coordinates\":[[51.449129,21.981674],[51.422792,21.568664],[51.396456,21.155654]],\"children\":[]},{\"name\":\"mx-rad-1@et-0/0/1_mx-kie-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"rad\",\"kie\"]}},\"coordinates\":[[51.396456,21.155654],[51.137889,20.886703],[50.879321,20.617752]],\"children\":[]},{\"name\":\"mx-kie-1@et-0/0/1_mx-kra-1@et-0/0/2\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"kie\",\"kra\"]}},\"coordinates\":[[50.879321,20.617752],[50.473931,20.282608],[50.068541,19.947464]],\"children\":[]},{\"name\":\"mx-war-1@et-0/0/2_mx-rad-1@et-0/0/2\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"war\",\"rad\"]}},\"coordinates\":[[52.231792,21.006351],[51.80403025088219,21.087806737211974],[51.396456,21.155654]],\"children\":[]},{\"name\":\"mx-zgo-1@et-0/0/1_mx-wro-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"zgo\",\"wro\"]}},\"coordinates\":[[51.969907,15.504051],[51.536485,16.271169],[51.103063,17.038287]],\"children\":[]},{\"name\":\"mx-tor-1@et-0/0/2_mx-byd-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"tor\",\"byd\"]}},\"coordinates\":[[53.018818,18.605544],[53.076954,18.298692],[53.13509,17.99184]],\"children\":[]},{\"name\":\"mx-byd-1@et-0/0/1_mx-poz-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"byd\",\"poz\"]}},\"coordinates\":[[53.13509,17.99184],[52.771433,17.472311],[52.407776,16.952782]],\"children\":[]},{\"name\":\"mx-war-1@et-0/0/3_mx-lod-1@et-0/0/2\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"war\",\"lod\"]}},\"coordinates\":[[52.231792,21.006351],[52.003155,20.237696],[51.774517,19.469041]],\"children\":[]},{\"name\":\"mx-poz-1@et-0/0/1_mx-lod-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"poz\",\"lod\"]}},\"coordinates\":[[52.407776,16.952782],[52.091147,18.210912],[51.774517,19.469041]],\"children\":[]},{\"name\":\"mx-lod-1@et-0/0/1_mx-cze-1@et-0/0/0\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"lod\",\"cze\"]}},\"coordinates\":[[51.774517,19.469041],[51.292991,19.294483],[50.811465,19.119926]],\"children\":[]},{\"name\":\"mx-cze-1@et-0/0/1_mx-kat-1@et-0/0/2\",\"meta\":{\"endpoint_identifiers\":{\"names\":[\"cze\",\"kat\"]}},\"coordinates\":[[50.811465,19.119926],[50.557628,18.898028],[50.303792,18.67613]],\"children\":[]}],\"nodes\":[{\"name\":\"poz\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[52.407776,16.952782]},{\"name\":\"gda\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[54.345248,18.654276]},{\"name\":\"war\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[52.231792,21.006351]},{\"name\":\"kra\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.068541,19.947464]},{\"name\":\"wro\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.103063,17.038287]},{\"name\":\"poz\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[52.407776,16.952782]},{\"name\":\"szc\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[53.419637,14.552042]},{\"name\":\"kos\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[54.191282,16.169653]},{\"name\":\"gda\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[54.345248,18.654276]},{\"name\":\"ols\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[53.782758,20.481679]},{\"name\":\"bia\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[53.132231,23.153101]},{\"name\":\"war\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[52.231792,21.006351]},{\"name\":\"tor\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[53.018818,18.605544]},{\"name\":\"zgo\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.969907,15.504051]},{\"name\":\"opo\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.664648,17.926277]},{\"name\":\"wro\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.103063,17.038287]},{\"name\":\"kat\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.303792,18.67613]},{\"name\":\"kra\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.068541,19.947464]},{\"name\":\"rze\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.043902,22.007124]},{\"name\":\"lub\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.23605,22.569155]},{\"name\":\"pul\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.449129,21.981674]},{\"name\":\"rad\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.396456,21.155654]},{\"name\":\"kie\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.879321,20.617752]},{\"name\":\"byd\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[53.13509,17.99184]},{\"name\":\"poz\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[52.407776,16.952782]},{\"name\":\"lod\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[51.774517,19.469041]},{\"name\":\"cze\",\"meta\":{\"displayName\":\"\",\"svg\":\"\",\"template\":\"\"},\"coordinate\":[50.811465,19.119926]}]}",
+            "name": "Layer 1",
+            "nodeHighlight": "dark-blue",
+            "nodeNameMatchField": "Node",
+            "nodeThresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "red"
+                },
+                {
+                  "color": "dark-blue",
+                  "value": 1
+                }
+              ]
+            },
+            "nodeValueField": "Up/Down (1: up, 0:down)",
+            "nodeWidth": 5,
+            "outboundValueField": "out_bits",
+            "pathOffset": 1.5,
+            "srcField": "src",
+            "srcFieldLabel": "From:",
+            "visible": true
+          },
+          {
+            "color": "#37178029",
+            "dashboardEdgeDstVar": "destination",
+            "dashboardEdgeDstVarL1": "dest",
+            "dashboardEdgeSrcVar": "source",
+            "dashboardEdgeSrcVarL1": "source",
+            "dashboardNodeVar": "node",
+            "dataFieldLabel": "Volume:",
+            "dstFieldLabel": "To:",
+            "edgeWidth": 1.5,
+            "endpointId": "pops",
+            "jsonFromUrl": false,
+            "legend": false,
+            "mapjson": "{\"edges\":[],\"nodes\":[]}",
+            "mapjsonUrl": "",
+            "name": "Layer 2",
+            "nodeHighlight": "red",
+            "nodeWidth": 5,
+            "pathOffset": 1.5,
+            "srcFieldLabel": "From:",
+            "visible": false
+          },
+          {
+            "color": "grey",
+            "dashboardEdgeDstVarL1": "dest",
+            "dashboardEdgeSrcVarL1": "source",
+            "dashboardNodeVar": "node",
+            "dataFieldLabel": "Volume:",
+            "dstFieldLabel": "To:",
+            "edgeWidth": 3,
+            "endpointId": "pops",
+            "jsonFromUrl": false,
+            "legend": false,
+            "mapjson": "{\"edges\":[],\"nodes\":[]}",
+            "mapjsonUrl": "",
+            "name": "Layer 3",
+            "nodeHighlight": "red",
+            "nodeWidth": 5,
+            "pathOffset": 3,
+            "srcFieldLabel": "From:",
+            "visible": false
+          }
+        ],
+        "legendColumnLength": 3,
+        "legendDefaultBehavior": "visible",
+        "legendPosition": "bottomleft",
+        "nodeThresholds": {
+          "mode": "absolute",
+          "steps": [
+            {
+              "color": "red"
+            },
+            {
+              "color": "green",
+              "value": 1
+            }
+          ]
+        },
+        "showLegend": true,
+        "showSidebar": false,
+        "showViewControls": true,
+        "thresholds": [
+          {
+            "color": "#1F60C4"
+          },
+          {
+            "color": "#3274D9",
+            "value": 10000000000
+          },
+          {
+            "color": "#5794F2",
+            "value": 100000000000
+          },
+          {
+            "color": "#8AB8FF",
+            "value": 1000000000000
+          },
+          {
+            "color": "#C0D8FF",
+            "value": 10000000000000
+          },
+          {
+            "color": "#EAB839",
+            "value": 100000000000000
+          }
+        ],
+        "tileset": {
+          "geographic": "arcgis"
+        },
+        "topologySource": "url",
+        "viewport": {
+          "center": {
+            "lat": 52.89303811972913,
+            "lng": 17.91437157970182
+          },
+          "zoom": 5.5
+        },
+        "viewportZoom": 5,
+        "zIndexBase": 200
+      }
+
+
+
