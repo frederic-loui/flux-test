@@ -14,7 +14,7 @@
           {
             "color": "#49a7f25e",
             "dashboardEdgeDstVar": "destination",
-            "dashboardEdgeDstVarL1": "dest",
+            "dashboardEdgeDstVarL1": "destination",
             "dashboardEdgeSrcVar": "source",
             "dashboardEdgeSrcVarL1": "source",
             "dashboardNodeVar": "node",
